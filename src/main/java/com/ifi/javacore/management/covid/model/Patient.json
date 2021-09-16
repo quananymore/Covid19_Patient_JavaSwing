@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Yui Shinoda",
+    "age": 23,
+    "gender": "Male",
+    "status": "F3",
+    "injectionTimes": 2,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\AragakiYui.jpg",
+    "detectDate": "Sep 14, 2021, 12:18:58 AM"
+  },
+  {
+    "id": 10,
+    "name": "Julia",
+    "age": 29,
+    "gender": "Male",
+    "status": "F2",
+    "injectionTimes": 1,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\julia.png",
+    "detectDate": "Sep 14, 2021, 4:26:38 PM"
+  },
+  {
+    "id": 13,
+    "name": "Yui Hatano",
+    "age": 30,
+    "gender": "Femal",
+    "status": "F8",
+    "injectionTimes": 2,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\nathlee.png",
+    "detectDate": "Sep 14, 2021, 4:56:23 PM"
+  },
+  {
+    "id": 14,
+    "name": "Thoa Xây Dựng",
+    "age": 24,
+    "gender": "Femal",
+    "status": "F1",
+    "injectionTimes": 3,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\3.jfif",
+    "detectDate": "Sep 14, 2021, 5:10:44 PM"
+  },
+  {
+    "id": 17,
+    "name": "Emi Fukada",
+    "age": 24,
+    "gender": "Male",
+    "status": "F4",
+    "injectionTimes": 1,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\1.jfif",
+    "detectDate": "Sep 14, 2021, 6:28:37 PM"
+  },
+  {
+    "id": 18,
+    "name": "Trấn Thành 100 Tỷ",
+    "age": 30,
+    "gender": "Male",
+    "status": "F0",
+    "injectionTimes": 1,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\2.jfif",
+    "detectDate": "Sep 14, 2021, 6:42:13 PM"
+  },
+  {
+    "id": 19,
+    "name": "Hoài Linh 14 Tỏi",
+    "age": 49,
+    "gender": "Male",
+    "status": "F!",
+    "injectionTimes": 1,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\3.jfif",
+    "detectDate": "Sep 14, 2021, 7:30:52 PM"
+  },
+  {
+    "id": 20,
+    "name": "Thủy Tiên 172 tỏi",
+    "age": 30,
+    "gender": "Femal",
+    "status": "F1",
+    "injectionTimes": 2,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\2.jfif",
+    "detectDate": "Sep 15, 2021, 9:23:45 AM"
+  },
+  {
+    "id": 23,
+    "name": "Yui Shinoda2",
+    "age": 30,
+    "gender": "Female",
+    "status": "Đang nằm giường chờ",
+    "injectionTimes": 1,
+    "image": "D:\\IFI-Solution\\Project\\Covid_tracking\\src\\main\\java\\com\\ifi\\javacore\\management\\covid\\image\\yuishinoda.jfif",
+    "detectDate": "Sep 15, 2021, 7:03:56 PM"
+  }
+]
